@@ -76,4 +76,4 @@ def main(dest_name):
 
 
 if __name__ == "__main__":
-    main('visiontech360.com')
+    main('website/domain')
